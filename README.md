@@ -1,5 +1,7 @@
 # Bedwars Savannah Map
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > A savannah-themed map for my [Bedwars plugin](https://github.com/EsotericEnderman/bedwars-plugin).
 
 ## License
